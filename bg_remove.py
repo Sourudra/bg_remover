@@ -52,4 +52,4 @@ if my_upload is None:
     st.info ("Your edited image will appear here once uploaded and processed.")
 
 else:
-    st.success("Your edited image is ready for download from the sidebar on the left.")
+    st.success("Your edited image is ready to download from the sidebar on the left.")
